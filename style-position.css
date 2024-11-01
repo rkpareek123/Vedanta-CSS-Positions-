@@ -1,0 +1,48 @@
+*{
+    padding: 0; margin: 0;
+}
+
+.vedantu{
+    margin: 0 100px;
+    background-color: #ff693d;
+    color: white;
+    border-radius: 8px;
+    height: 400px;
+    position: relative;
+}
+
+.vedantu h1{
+    position: relative;
+    font-size: 40px;
+    top: 110px;
+    left: 70px;
+}
+
+.vedantu p{
+    position: relative;
+    top: 130px;
+    left: 70px;
+    width: 40%;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.vedantu button{
+    position: relative;
+    top: 150px;
+    background-color: rgb(24, 22, 27);
+    color: white;
+    padding: 13px 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    left: 70px;
+    font-size: 18px;
+}
+
+.vedantu img{
+    width: 35%;
+    position: absolute;
+    right: 100px;
+    bottom: 0px;
+}
